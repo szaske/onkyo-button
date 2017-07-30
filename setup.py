@@ -10,7 +10,7 @@ setup(name='onkyo-button',
       packages=['onkyo-button'],
       install_requires=[
           'onkyo-eiscp',
-	  'psutil",
+	  'psutil',
 	  'RPi.GPIO'
       ],
       zip_safe=False)
