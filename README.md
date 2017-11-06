@@ -1,4 +1,4 @@
-onkyo-button is a python script that controls the sound volume on an Onkyo receiver, via a button connected to the GPIO pins on a Raspberry Pi. I've included the instructions here as a record for myself and to share my code with anyone who might want to build a similiar project.
+onkyo-button is a Python script that controls the sound volume on an Onkyo receiver, via a button connected to the GPIO pins on a Raspberry Pi. I've included the instructions here as a record for myself and to share my code with anyone who might want to build a similiar project.
 
 ## Requirements
 * Raspberry Pi
